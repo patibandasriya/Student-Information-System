@@ -84,4 +84,4 @@ Contributions are welcome! Please create a pull request with a detailed descript
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For any inquiries or feedback, please contact us at [coder.aktar@gmail.com].
+For any inquiries or feedback, please contact us at [patibandasriya@gmail.com].
