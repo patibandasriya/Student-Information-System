@@ -35,7 +35,7 @@ This project is a University Management System with three user panels: Admin, Te
 ### Installation
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/coderzaman/Student-Management-System.git
+    git clone https://github.com/patibandasriya/Student-Information-System
     cd Student-Management-System.git
     ```
 2. **Import the Database**
